@@ -32,11 +32,17 @@
 
 ## 📊 Statistics
 <img src="https://wakatime.com/badge/user/271ba74f-a0f2-41f7-89a9-8597adeabcb9.svg" alt="wakatime" />
+<hr /><hr />
 <img color="white" src="https://wakatime.com/share/@Rishabh/43c83155-7817-4ec2-99b5-22f203c48f9f.svg"/>
+<hr /><hr />
 <img width="600px" height="450px" src="https://wakatime.com/share/@Rishabh/fbafc665-d9bf-4d39-946b-f9a79ac7dee0.svg" />
+<hr /><hr />
 <img width="600px" height="450px" src="https://wakatime.com/share/@Rishabh/3f25f46e-fca2-4d4b-ab60-48e15c26ed0f.svg" />
+<hr /><hr />
 <img width="600px" height="450px" src="https://wakatime.com/share/@Rishabh/07f5b557-cc79-45ef-84db-a8321adbff59.svg" />
-
+<hr /><hr />
+<img width="600px" height="450px" src="https://wakatime.com/share/@Rishabh/c24b71be-66e9-4608-bf0f-a1e8e4d1658e.svg" />
+<hr /><hr />
 
 ### Profile visits
 <img src='https://profile-counter.glitch.me/rishabh32700/count.svg' width='auto'>
