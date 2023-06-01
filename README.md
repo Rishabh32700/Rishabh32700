@@ -46,3 +46,5 @@
 
 ### Profile visits
 <img src='https://profile-counter.glitch.me/rishabh32700/count.svg' width='auto'>
+
+<img src = 'https://wakatime.com/badge/user/271ba74f-a0f2-41f7-89a9-8597adeabcb9/project/55ee9ba3-53c6-46a9-98e9-5f26f549a383.svg' width='auto'>
