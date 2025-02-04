@@ -6,8 +6,8 @@
 - 💬 Ask me about JavaScript, Front-End Development
 - ⚡ Music Lover🎵❤️
 - 📫 Connect with me: Check links👇🏻😊
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rishabhkumarsharma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rishabhkumarsharma?trk=profile-badge">Rishabh Sharma</a></div>
+  
+<a href="https://www.linkedin.com/in/rishabhkumarsharma/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
               
 <a href="mailto:sharmarishabh32700@gmail.com"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>
